@@ -32,7 +32,7 @@ The system goes through several steps, including data preprocessing, feature eng
 
 Support Vector Machine,(SVM), falls under the “supervised machine learning algorithms” category. It can be used for classification, as well as for regression. In this model, we plot each data item as a unique point in an n-dimension,(where n is actually, the number of features that we have), with the value of each of the features being the value of that particular coordinate. Then, we perform the process of classification by finding the hyper-plane that differentiates the two classes.
 
-![1](https://github.com/Raman1708/Loan-Status-Prediction/assets/91726340/2e544eb1-5c8d-4239-a81b-b6001ef8185e)
+![1](https://github.com/dhrupad17/Loan-Status-Prediction/assets/91726340/2e544eb1-5c8d-4239-a81b-b6001ef8185e)
 
 SVM is preferred over other algorithms when :
 
